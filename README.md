@@ -57,4 +57,22 @@ Los pego en el repositorio local:
 <img src='https://drive.google.com/file/d/1P3EQc7c7vhRk7J1kdAjiRT_JsA49GVce/view?usp=sharing' alt='captura ejercicio 3.3' width='100%'/>
 
 Compruebo el repositorio remoto:
-<img src='https://drive.google.com/file/d/1be-DINnMTwd5gvl95pAE9ASe2Kl1LstX/view?usp=sharing' alt='captura ejercicio 3.3' width='100%'/>
+<img src='https://drive.google.com/uc?export&id=1be-DINnMTwd5gvl95pAE9ASe2Kl1LstX' alt='captura ejercicio 3.3' width='100%'/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
