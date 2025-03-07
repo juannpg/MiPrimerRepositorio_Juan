@@ -18,7 +18,7 @@ Tras ello, configurado mi usuario con:
 
 ```bash
 git config --global user.name "FIRST_NAME LAST_NAME"
-git config --global user.email "MY_NAME@example.com
+git config --global user.email "MY_NAME@example.com"
 ```
 
 Y añadido a mi cuenta de GitHub con una clave `SSH`
